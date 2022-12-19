@@ -4,7 +4,7 @@ Modern abstract painters explored how the art principles, such as shape, line, c
 The code is developed based on the emotional classifier of <a href="https://www.artemisdataset.org">ArtEmis project</a>.<br>
 <br>
 <div align="center">
-<figure style="width: 100%; font-style: itlaic; font-size: smaller text-align: left;">
+<figure style="width: 70%; font-style: itlaic; font-size: smaller text-align: left;">
 <img src="./img/comp_hidden_embedding.png" width=520 height=820><br/>
 <figcaption> Current Results: A new emotional classifier (prototype model) is developed (bottom figure), which generates discrete clusters according to a finite set of visual factors, while the baseline system (top figure) is a continuous and entangled for semantic interpretion. We was able to confirm the common visual factors for each cluster. For example, the blue-circled cluster could be described by primary colors or amorphous shape. On the other hand, the red circle samples could be described by low-saturated color and geometric shapes.</figcaption>
 </figure>
