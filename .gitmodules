@@ -1,0 +1,6 @@
+[submodule "Emotional-Factors-AbstractPaintings/code"]
+	path = Emotional-Factors-AbstractPaintings/code
+	url = https://github.com/diana-s-kim/emotional-factors-abstract-artemis
+[submodule "code"]
+	path = code
+	url = https://github.com/diana-s-kim/emotional-factors-abstract-artemis
