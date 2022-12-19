@@ -1,7 +1,7 @@
 <h3 align="center">Finding Visual Factors of Human Emotional Appreciation to Abstract Paintings</h3>
 <div align="left">
-Modern abstract painters explored how the art principles, such as shape, line, color, or light, affect our visual experience. This project aims to reveal the factors that might influence human emotional experience to abstract art from a machine’s perspective. Inspired by bottom-up and top-down processes presented in the book, "Reductionism in Art and Brain Science", a machine learning system is designed to simulate the two directional braiin processes on the way to final emotional recognition for abstract paintings. Semantic interpretation of the found discrete space on the bottom-up part will find the  key visual factors.<br>
-The code is developed based on the emotional classifier of artemis.<br>
+Modern abstract painters explored how the art principles, such as shape, line, color, or light, affect our visual experience. This project aims to reveal the factors that might influence human emotional experience to abstract art from a machine’s perspective. Inspired by bottom-up and top-down processes presented in the book, <a href="https://cup.columbia.edu/book/reductionism-in-art-and-brain-science/9780231179621">"Reductionism in Art and Brain Science"</a>, a machine learning system is designed to simulate the two directional braiin processes on the way to final emotional recognition for abstract paintings. Semantic interpretation of the found discrete space on the bottom-up part will find the  key visual factors.<br>
+The code is developed based on the emotional classifier of <a href="https://www.artemisdataset.org">ArtEmis project</a>.<br>
 <br>
 <div align="center">
 <figure style="width: 100%; font-style: itlaic; font-size: smaller text-align: left;">
